@@ -1,4 +1,4 @@
 # TrabajoPractico1_7506
-SHERLY PORRAS CARHUAMACA
-91076
-Gianmarco Cafferata
+SHERLY PORRAS CARHUAMACA \n
+91076 \n
+Gianmarco Cafferata \n
